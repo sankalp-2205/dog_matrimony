@@ -1,0 +1,606 @@
+<a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for tommy
+                                <p class='time'>05/31/2020 22:31:43</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Maria has cancelled his request for tommy
+                                <p class='time'>05/31/2020 22:30:10</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for tommy
+                                <p class='time'>05/31/2020 22:28:34</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of max has cancelled his request for Ron
+                                <p class='time'>05/31/2020 22:28:02</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Maria has cancelled his request for tommy
+                                <p class='time'>05/31/2020 22:19:37</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for tommy
+                                <p class='time'>05/31/2020 22:17:54</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for Ron
+                                <p class='time'>05/29/2020 23:32:15</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for tommy
+                                <p class='time'>05/29/2020 20:16:10</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Maria has cancelled his request for tommy
+                                <p class='time'>05/29/2020 20:14:58</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for tommy
+                                <p class='time'>05/29/2020 20:14:52</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:21:58</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 16:21:43</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:11:43</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 16:11:20</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:10:43</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 16:10:22</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:05:02</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 16:04:54</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:04:21</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 16:03:55</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:03:33</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 16:03:25</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 16:02:36</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 15:25:41</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 15:25:14</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 15:17:49</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 15:11:46</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 15:11:33</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 15:10:35</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 15:10:09</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 15:09:45</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 15:06:23</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 14:56:25</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 14:42:23</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 14:41:52</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 14:41:05</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 14:33:25</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 14:32:15</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 14:31:16</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 14:30:11</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 13:26:28</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 13:26:02</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 13:21:26</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 13:20:08</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 13:10:00</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 13:09:06</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 13:08:25</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 13:06:36</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:55:14</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 12:54:36</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:47:32</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 12:42:24</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:41:43</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 12:25:02</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:24:15</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:24:14</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 12:23:30</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:19:10</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 12:17:59</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 12:14:55</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 01:16:23</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 01:12:13</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 01:06:18</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 00:10:25</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 00:09:35</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 00:02:54</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/28/2020 00:02:03</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/28/2020 00:01:36</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 23:54:38</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 23:54:07</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 23:52:16</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 23:49:37</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 23:46:55</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 23:46:02</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 23:45:28</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 17:08:44</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 17:08:34</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 17:08:22</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 17:07:56</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 17:06:46</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 17:06:41</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 17:06:28</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 17:06:22</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 17:05:14</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 17:04:59</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/27/2020 17:04:34</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/27/2020 17:04:23</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/25/2020 18:15:42</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/25/2020 18:15:36</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/25/2020 17:35:08</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/25/2020 17:34:56</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/25/2020 17:28:01</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/25/2020 17:27:49</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/25/2020 16:50:58</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/25/2020 16:50:50</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/25/2020 16:47:55</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/25/2020 16:46:48</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 23:33:56</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 23:33:23</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 23:32:45</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 23:32:36</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 23:30:47</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 23:30:35</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 16:46:21</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 16:45:57</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 16:45:43</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 16:45:23</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 16:41:46</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 16:41:40</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 16:41:21</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 16:41:12</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 16:40:47</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 16:40:35</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/requestsentwebpage.php' style = 'background-color : transparent;'><li style = 'color : #B97745;'>
+                    <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                    <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has declined your request for pluto
+                    <p class='time'>05/24/2020 15:06:20</p>
+                    </div>
+                    </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/confirmedmatches.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                        <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                        <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has accepted your request for pluto
+                        <p class='time'>05/24/2020 15:05:41</p>
+                        </div>
+                        </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Jack has cancelled his request for pluto
+                                <p class='time'>05/24/2020 15:03:15</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for pluto
+                                <p class='time'>05/24/2020 15:00:30</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for tommy
+                                <p class='time'>05/24/2020 14:09:54</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/confirmedmatches.php' style = 'background-color : transparent;'><li style = 'color : #B97745;'>
+                                            <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                            <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Tummy has proceeded to book an appointment for shadowain (Request ID : 280)
+                                            <p class='time'>05/23/2020 23:44:16</p>
+                                            </div>
+                                            </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/confirmedmatches.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                    <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                    <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Tummy has proceeded to book an appointment for shadowain (Request ID : 280)
+                                    <p class='time'>05/23/2020 23:42:21</p>
+                                    </div>
+                                    </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for shadowain
+                                <p class='time'>05/23/2020 23:31:54</p>
+                                </div>
+                                </li></a>

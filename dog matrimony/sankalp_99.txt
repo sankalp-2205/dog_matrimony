@@ -1,0 +1,21 @@
+<a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/confirmedmatches.php' style = 'background-color : transparent;'><li style = 'color : #B97745;'>
+                                            <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                            <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Dinky has proceeded to book an appointment for Bruno (Request ID : 279)
+                                            <p class='time'>05/23/2020 23:57:29</p>
+                                            </div>
+                                            </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/confirmedmatches.php' style = 'background-color : transparent;'><li style = 'color : #B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Lucy has proceeded to book an appointment for Shadow (Request ID : 278)
+                                <p class='time'>05/23/2020 22:52:46</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/receivedrequest.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                                <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                                <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'> You have a new request for Bruno
+                                <p class='time'>05/23/2020 22:28:29</p>
+                                </div>
+                                </li></a><a href = 'http://websh.offyoucode.co.uk/dog%20matrimony/confirmedmatches.php' style = 'background-color : transparent;'><li style = 'color :#B97745;'>
+                        <div class='col-md-3 col-sm-3 col-xs-3'><div class='notify-img'><img id = 'notify' src='dogicon.jpg' alt=''></div></div>
+                        <div class='col-md-9 col-sm-9 col-xs-9 pd-l0'>The owner of Lucy has accepted your request for Shadow
+                        <p class='time'>05/23/2020 21:13:31</p>
+                        </div>
+                        </li></a>
